@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "About"
+    url: /
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Coursework"
+    url: /coursework/
+
+  - title: "Experience"
+    url: /experience/
+
+  - title: "CV"
+    url: /cv/
