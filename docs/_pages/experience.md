@@ -8,6 +8,7 @@ classes: wide
 redirect_from:
     - /exp/
     - /experiences/
+    - /experience
     - /service/
     - /volunteer/
     - /volunteering/

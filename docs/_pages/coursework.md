@@ -7,6 +7,7 @@ author_profile: true
 classes: wide
 redirect_from:
     - /courses/
+    - /coursework
 ---
 
 **Upcoming:**

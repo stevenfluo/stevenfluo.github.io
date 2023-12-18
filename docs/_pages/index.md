@@ -7,6 +7,7 @@ author_profile: true
 classes: wide
 redirect_from:
     - /about/
+    - /about
 ---
 
 I am a 2nd-year undergraduate at the University of California, Berkeley double majoring in [Computer Science](https://eecs.berkeley.edu/cs/) and [Data Science](https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major) in the College of Computing, Data Science, and Society while pursuing a minor in [Public Policy](https://gspp.berkeley.edu) in the Goldman School. My research interests broadly lie in machine learning, computer vision, technology policy, and computer ethics, and I hope to pursue a PhD in Computer Science after graduation.
