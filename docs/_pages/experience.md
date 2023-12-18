@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /experience
+permalink: /experience/
 title: "Experience"
 excerpt: "Experience, service, volunteering"
 author_profile: true

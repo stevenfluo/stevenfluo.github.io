@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /coursework
+permalink: /coursework/
 title: "Coursework"
 excerpt: "Courses Taken"
 author_profile: true
