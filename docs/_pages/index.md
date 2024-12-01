@@ -10,7 +10,7 @@ redirect_from:
     - /about
 ---
 
-I am a 3rd-year undergraduate at the University of California, Berkeley double majoring in [Computer Science](https://eecs.berkeley.edu/cs/) and [Data Science](https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major) while pursuing a minor in [Public Policy](https://gspp.berkeley.edu). My research interests broadly lie in machine learning, computer vision, technology/AI policy, and computer ethics, and I hope to pursue a PhD in Computer Science after graduation.
+I am a 3rd-year undergraduate at the University of California, Berkeley double majoring in [Computer Science](https://eecs.berkeley.edu/cs/) and [Data Science](https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major) with a minor in [Public Policy](https://gspp.berkeley.edu). My research interests broadly lie in machine learning, computer vision, technology/AI policy, and computer ethics, and I hope to pursue a PhD in Computer Science after graduation.
 
 This summer, I was a Software Engineering Intern at VitalSense through the CITRIS Workforce Innovation Program, and spent the rest of my time as a Congressional Affairs and Policy Planning Intern at the Defense Innovation Unit. Previously, I was a Robust Software Engineering intern at NASA Ames Research Center's Intelligent Systems Division where I worked on improving the simulation-to-reality transfer learning accuracy of deep neural network classifiers. Before that, I investigated the surprise adequacy scores of deep learning systems at NASA Langley Research Center.
 
