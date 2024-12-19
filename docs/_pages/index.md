@@ -12,13 +12,13 @@ redirect_from:
 
 I am a 3rd-year undergraduate at the University of California, Berkeley double majoring in [Computer Science](https://eecs.berkeley.edu/cs/) and [Data Science](https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major) with a minor in [Public Policy](https://gspp.berkeley.edu). My research interests broadly lie in machine learning, computer vision, technology/AI policy, and computer ethics, and I hope to pursue a PhD in Computer Science after graduation.
 
-This summer, I was a Software Engineering Intern at VitalSense through the CITRIS Workforce Innovation Program, and spent the rest of my time as a Congressional Affairs and Policy Planning Intern at the Defense Innovation Unit. Previously, I was a Robust Software Engineering intern at NASA Ames Research Center's Intelligent Systems Division where I worked on improving the simulation-to-reality transfer learning accuracy of deep neural network classifiers. Before that, I investigated the surprise adequacy scores of deep learning systems at NASA Langley Research Center.
+This summer, I was a Software Engineering Intern at VitalSense through the CITRIS Workforce Innovation Program, and spent the rest of my time as a Congressional Affairs and Policy Planning Intern at the Defense Innovation Unit of the U.S. Department of Defense. Previously, I was a Robust Software Engineering intern at NASA Ames Research Center's Intelligent Systems Division where I worked on improving the simulation-to-reality transfer learning accuracy of deep neural network classifiers. Before that, I investigated the surprise adequacy scores of deep learning systems at NASA Langley Research Center.
 
 I'm grateful to be supported by the [Regents' and Chancellor's Scholarship](https://financialaid.berkeley.edu/types-of-aid-at-berkeley/scholarships/regents-and-chancellors-scholarship/) and Cal Alumni Association's [Leadership Award](https://alumni.berkeley.edu/get-involved/scholarships/the-leadership-award/). I am also a [Data Scholar](https://data.berkeley.edu/data-science/student-opportunities/data-scholars) and part of the [STEM Excellence through Equity and Diversity (SEED) Scholars Honors Program](https://seedscholars.berkeley.edu/home).
 
 In addition to my academic pursuits, I enjoy teaching (especially CS education and science communication), reading, cooking, as well as watching the symphony and opera.
 
-If you would like to contact me, you can email me at sf[my last name] (AT) berkeley (DOT) edu. Thanks for stopping by!
+If you would like to contact me, you can email me at sfluo (AT@) berkeley (DOT.) edu. Thanks for stopping by!
 
 ---
 
