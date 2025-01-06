@@ -10,22 +10,21 @@ redirect_from:
     - /coursework
 ---
 
-**Upcoming:**
+**Current:**
 <br>**CS 170:** Efficient Algorithms and Intractable Problems
 <br>**CS 182:** Deep Neural Networks
 <br>**PUBPOL 190:** AI Policy
 <br>**PUBPOL 190:** National Security and Intelligence Seminar (with former U.S. Secretary of Homeland Security Janet Napolitano)
 
-**Current:**
-<br>**CS 180:** Computer Vision and Computational Photography
-<br>**CS 189:** Machine Learning
-<br>**CS 61C:** Great Ideas of Computer Architecture (Machine Structures)
-<br>**PUBPOL 220:** Law and Public Policy
+My coursework follows two main themes:
 
 **Computing:**
 <br>**CS 61A:** Structure and Interpretation of Computer Programs
 <br>**CS 61B:** Data Structures 
+<br>**CS 61C:** Great Ideas of Computer Architecture (Machine Structures)
 <br>**CS 70:** Discrete Mathematics and Probability Theory 
+<br>**CS 180:** Computer Vision and Computational Photography
+<br>**CS 189:** Machine Learning
 <br>**DATA 6:** Computational Thinking with Data (A+)
 <br>**DATA 8:** Foundations of Data Science (A+)
 <br>**DATA 100:** Principles & Techniques of Data Science (A+)
@@ -43,6 +42,7 @@ redirect_from:
 <br>**PUBPOL 101:** Public Policy Analysis (A+)
 <br>**PUBPOL 103:** Wealth and Poverty (with former U.S. Secretary of Labor Robert Reich)
 <br>**PUBPOL 155:** Security Policy (with former U.S. Secretary of Homeland Security Janet Napolitano)
+<br>**PUBPOL 220:** Law and Public Policy
 <br>**PUBPOL 290:** Technology and Public Policy
 <br>**PUBPOL 290:** Future of Cybersecurity Working Group
 <br>**POLISCI 109B:** Politics of Public Policy (A+)
