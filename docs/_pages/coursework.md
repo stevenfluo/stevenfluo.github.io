@@ -13,10 +13,8 @@ redirect_from:
 **Current:**
 <br>**CS 170:** Efficient Algorithms and Intractable Problems
 <br>**CS 182:** Deep Neural Networks
-<br>**PUBPOL 190:** AI Policy
+<br>**PUBPOL 190-1:** AI Policy
 <br>**PUBPOL 190:** National Security and Intelligence Seminar (with former U.S. Secretary of Homeland Security Janet Napolitano)
-
-My coursework follows two main themes:
 
 **Computing:**
 <br>**CS 61A:** Structure and Interpretation of Computer Programs
@@ -47,5 +45,8 @@ My coursework follows two main themes:
 <br>**PUBPOL 290:** Future of Cybersecurity Working Group
 <br>**POLISCI 109B:** Politics of Public Policy (A+)
 <br>**ENVECON 170** Energy and Climate Policy in China
+
+**Note:** Berkeley courses numbered 200 and greater are graduate classes.
+{: .notice} 
 
 **Dual Enrollment:** Multivariable Calculus, Introduction to Philosophy, Logic and Critical Reasoning, Client-Side Internet Technologies, Discrete Structures, Engineering Analysis
