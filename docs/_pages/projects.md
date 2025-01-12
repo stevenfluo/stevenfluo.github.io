@@ -32,4 +32,4 @@ I visualize image edge detection and convolution, implement image sharpening, cr
 # Papers & Publications
 **From Simulation to Reality with Random Noise**<br/>
 **Steven Luo**, Rory Lipkis, Ignacio G. Lopez-Francos, Pavlo G. Vlastos and Adrian Agogino<br/>
-*2025 AIAA SciTech Forum: [Conference Paper](https://arc.aiaa.org/doi/10.2514/6.2025-1731) and Technical Presentation*
+*2025 AIAA SciTech Forum: Conference Paper ([Meeting paper](https://arc.aiaa.org/doi/10.2514/6.2025-1731), [pdf](https://stevenfluo.github.io/comingsoon/) and Technical Presentation ([slides](https://stevenfluo.github.io/comingsoon/))*
