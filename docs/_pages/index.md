@@ -23,7 +23,7 @@ If you would like to contact me, you can email me at sfluo (AT@) berkeley (DOT.)
 ---
 
 ### News
-- **[Jan. 2025]** I presented my paper "From Simulation to Reality with Random Noise" at the 2025 AIAA SciTech Forum in Orlando, Florida.
+- **[Jan. 2025]** I presented my [paper](https://stevenfluo.github.io/projects/#papers--publications) "From Simulation to Reality with Random Noise" at the 2025 AIAA SciTech Forum in Orlando, Florida.
 - **[Sep. 2024]** I presented my sim2real research at the SEED Research Symposium to UC Berkeley students, faculty, and staff.
 - **[Sep. 2024]** I presented my work in VitalSense at the 2024 Workforce Innovation Program Symposium.
 - **[Mar. 2024]** I spent a week at ICANN 79 in San Juan, Puerto Rico diving into the global internet governance community, and presented my research during a conference session.
