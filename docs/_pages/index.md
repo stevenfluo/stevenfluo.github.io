@@ -16,13 +16,14 @@ This summer, I was a Software Engineering Intern at VitalSense through the CITRI
 
 I'm grateful to be supported by the [Regents' and Chancellor's Scholarship](https://financialaid.berkeley.edu/types-of-aid-at-berkeley/scholarships/regents-and-chancellors-scholarship/) and Cal Alumni Association's [Leadership Award](https://alumni.berkeley.edu/get-involved/scholarships/the-leadership-award/). I am also a [Data Scholar](https://data.berkeley.edu/data-science/student-opportunities/data-scholars) and part of the [STEM Excellence through Equity and Diversity (SEED) Scholars Honors Program](https://seedscholars.berkeley.edu/home).
 
-In addition to my academic pursuits, I enjoy teaching (especially CS education and science communication), reading, cooking, as well as watching the symphony and opera. This year, I'm challenging myself to read one book every week (with occasional accompanying blogs). Have titles to suggest or thoughts to share? Feel free to reach out — I'd love to hear from you!
+In addition to my academic pursuits, I enjoy teaching (especially CS education and science communication), reading, cooking, as well as watching the symphony and opera. I'm also a student in the UC Berkeley carillon program and a member of the [Berkeley Carillon Guild](https://bells.studentorg.berkeley.edu). This year, I'm challenging myself to read one book every week (with occasional accompanying blogs). Have titles to suggest or thoughts to share? Feel free to reach out — I'd love to hear from you!
 
 If you would like to contact me, you can email me at sfluo (AT@) berkeley (DOT.) edu. Thanks for stopping by!
 
 ---
 
 ### News
+- **[Jan. 2025]** I was admitted to the [EECS Honors Program](https://eecs.berkeley.edu/resources/undergrads/honors/).
 - **[Jan. 2025]** I presented my [paper](https://stevenfluo.github.io/projects/#papers--publications) "From Simulation to Reality with Random Noise" at the 2025 AIAA SciTech Forum in Orlando, Florida.
 - **[Sep. 2024]** I presented my sim2real research at the SEED Research Symposium to UC Berkeley students, faculty, and staff.
 - **[Sep. 2024]** I presented my work in VitalSense at the 2024 Workforce Innovation Program Symposium.
