@@ -15,6 +15,8 @@ redirect_from:
 <br>**CS 182:** Deep Neural Networks
 <br>**PUBPOL 190-1:** AI Policy
 <br>**PUBPOL 190-9:** National Security and Intelligence Seminar (with former U.S. Secretary of Homeland Security Janet Napolitano)
+<br>**MUSIC 40:** Carillon Lessons
+
 
 **Computing:**
 <br>**CS 61A:** Structure and Interpretation of Computer Programs
