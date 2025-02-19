@@ -23,6 +23,7 @@ If you would like to contact me, you can email me at sfluo (AT@) berkeley (DOT.)
 ---
 
 ### News
+- **[Feb. 2025]** [He*a*rt*i*](https://devpost.com/software/hearti) won the Grand Prize: Most Impactful award at Stanford's TreeHacks!
 - **[Jan. 2025]** I was admitted to the [EECS Honors Program](https://eecs.berkeley.edu/resources/undergrads/honors/).
 - **[Jan. 2025]** I presented my [paper](https://stevenfluo.github.io/projects/#papers--publications) "From Simulation to Reality with Random Noise" at the 2025 AIAA SciTech Forum in Orlando, Florida.
 - **[Sep. 2024]** I presented my sim2real research at the SEED Research Symposium to UC Berkeley students, faculty, and staff.

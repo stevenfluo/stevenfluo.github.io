@@ -11,6 +11,11 @@ redirect_from:
     - /projects
     - /proj
 ---
+**He*a*rt*i*** ([Devpost](https://devpost.com/software/hearti), [Slides](https://docs.google.com/presentation/d/1mNNMeB0k5v51YfGd8vE8IVYRyXYjYgLbDOwTJeBDFDs/))<br/>
+He*a*rt*i* is a tool for doctors and patients to make diagnosing and treating congenital heart disease easier to do and explain. We leverage the HVSMR2.0 dataset to inform new treatments with past interventions on patients with similar heart problems. First, we convert a set of CMR images to a segmented 3D model. This model is converted to embeddings and stored in Vespa. New sets of CMR images are converted to 3D, then embeddings, and queried in Vespa to find the most similar heart model. The associated metadata of the best match is passed to Perplexity to generate an evidence-based diagnosis and treatment plan, which is then used by an ElevenLabs conversational agent to enable patient Q&A. You can use this tool on our website, and the 3D model can also be interacted with in an Oculus headset.
+
+We built He*a*rt*i* in one weekend at Stanford's TreeHacks 2025. He*a*rt*i* won the Most Impactful Grand Prize out of 270 projects and 1,000 hackers!
+
 **Face Morphing** ([Website](https://stevenfluo.github.io/facemorph/))<br/>
 I produce “morph” animations of faces into different faces, compute the mean of a population of faces, and change the ethnicity of a friend's face using only classical computer vision techniques.
 
