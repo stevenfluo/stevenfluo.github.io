@@ -23,6 +23,8 @@ If you would like to contact me, you can email me at sfluo (AT@) berkeley (DOT.)
 ---
 
 ### News
+- **[Apr. 2025]** I'm excited to participate in the [Brown CNTR Tech & Policy Summer School](https://cntr.brown.edu/summer-school) in July!
+- **[Apr. 2025]** My policy memo defining a limited private right of action for AI harms in K-12 eduction (with Saanvi Arora) won 2nd place at the 2025 Berkeley AI Policy Hackathon!
 - **[Feb. 2025]** [He*a*rt*i*](https://devpost.com/software/hearti) won the Grand Prize: Most Impactful award at Stanford's TreeHacks!
 - **[Jan. 2025]** I was admitted to the [EECS Honors Program](https://eecs.berkeley.edu/resources/undergrads/honors/).
 - **[Jan. 2025]** I presented my [paper](https://stevenfluo.github.io/projects/#papers--publications) "From Simulation to Reality with Random Noise" at the 2025 AIAA SciTech Forum in Orlando, Florida.
