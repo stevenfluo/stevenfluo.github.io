@@ -10,19 +10,21 @@ redirect_from:
     - /about
 ---
 
-I am a 3rd-year undergraduate at the University of California, Berkeley double majoring in [Computer Science](https://eecs.berkeley.edu/cs/) and [Data Science](https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major) with a minor in [Public Policy](https://gspp.berkeley.edu). My research interests broadly lie in computer vision, autonomous systems and robotics, deep learning, and technology/AI policy, and I hope to pursue a PhD in Computer Science after graduation. I currently research drone autonomy in the Video and Image Processing Lab with Professor Avideh Zakhor.
+I am a 4th-year undergraduate at the University of California, Berkeley double majoring in [Computer Science](https://eecs.berkeley.edu/cs/) and [Data Science](https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major) with a minor in [Public Policy](https://gspp.berkeley.edu). My research interests broadly lie in computer vision, autonomous systems and robotics, deep learning, and technology/AI policy, and I hope to pursue a PhD in Computer Science after graduation. I currently research drone autonomy in the Video and Image Processing Lab with Professor Avideh Zakhor.
 
 This summer, I will be continuing my work on research projects in Berkeley. Last summer, I was a Software Engineering Intern at VitalSense through the CITRIS Workforce Innovation Program, and spent the rest of my time as a Congressional Affairs and Policy Planning Intern at the Defense Innovation Unit of the U.S. Department of Defense. Previously, I was a Robust Software Engineering intern at NASA Ames Research Center's Intelligent Systems Division where I worked on improving the simulation-to-reality transfer learning accuracy of deep neural network classifiers. Before that, I investigated the surprise adequacy scores of deep learning systems at NASA Langley Research Center. Check out my other projects [here](https://stevenfluo.github.io/projects).
 
 I'm grateful to be supported by the [Regents' and Chancellor's Scholarship](https://financialaid.berkeley.edu/types-of-aid-at-berkeley/scholarships/regents-and-chancellors-scholarship/) and Cal Alumni Association's [Leadership Award](https://alumni.berkeley.edu/get-involved/scholarships/the-leadership-award/). I am also a [Data Scholar](https://data.berkeley.edu/data-science/student-opportunities/data-scholars) and part of the [STEM Excellence through Equity and Diversity (SEED) Scholars Honors Program](https://seedscholars.berkeley.edu/home).
 
-In addition to my academic pursuits, I enjoy teaching (especially CS education and science communication), reading, cooking, as well as watching the symphony and opera. I'm also a student in the UC Berkeley carillon program and a member of the [Berkeley Carillon Guild](https://bells.studentorg.berkeley.edu). This year, I'm challenging myself to read one book every week (with occasional accompanying blogs). Have titles to suggest or thoughts to share? Feel free to reach out — I'd love to hear from you!
+In addition to my academic pursuits, I enjoy teaching (especially CS education and science communication), reading, cooking, as well as watching the symphony and opera. I'm also a student in the UC Berkeley carillon program and a member of the [Berkeley Carillon Guild](https://bells.studentorg.berkeley.edu). This year, I'm challenging myself to read one book every month (with occasional accompanying blogs). Have titles to suggest or thoughts to share? Feel free to reach out — I'd love to hear from you!
 
 If you would like to contact me, you can email me at sfluo (AT@) berkeley (DOT.) edu. Thanks for stopping by!
 
 ---
 
 ### News
+- **[Jun. 2025]** We built [Compass](https://devpost.com/software/compass-xiatk7) at the UC Berkeley AI Hackathon, a “digital case-worker” that helps users navigate applications for government services and automatically fill out applications.
+- **[Jun. 2025]** Had a blast at Y Combinator's AI Startup School!
 - **[Apr. 2025]** I'm excited to participate in the [Brown CNTR Tech & Policy Summer School](https://cntr.brown.edu/summer-school) in July!
 - **[Apr. 2025]** My policy memo defining a limited private right of action for AI harms in K-12 eduction (with Saanvi Arora) won 2nd place at the 2025 Berkeley AI Policy Hackathon!
 - **[Feb. 2025]** [He*a*rt*i*](https://devpost.com/software/hearti) won the Grand Prize: Most Impactful award at Stanford's TreeHacks!
