@@ -23,6 +23,7 @@ If you would like to contact me, you can email me at sfluo (AT@) berkeley (DOT.)
 ---
 
 ### News
+- **[Jul. 2025]** I'm organizing an AI policy reading group ([sign up here](https://forms.gle/qe9krF7qDowXgBPG6)) with the Berkeley AI Safety Initiative!
 - **[Jun. 2025]** We built [Compass](https://devpost.com/software/compass-xiatk7) at the UC Berkeley AI Hackathon, a “digital case-worker” that helps users navigate applications for government services and automatically fill out applications.
 - **[Jun. 2025]** Had a blast at Y Combinator's AI Startup School!
 - **[Apr. 2025]** I'm excited to participate in the [Brown CNTR Tech & Policy Summer School](https://cntr.brown.edu/summer-school) in July!
