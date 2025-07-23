@@ -15,7 +15,7 @@ redirect_from:
 <br>**EE 120:** Signals and Systems
 <br>**PUBPOL 190-10:** Technology, Risk, and Security Colloquium
 <br>**MUSIC 41B:** Carillon Lessons
-and CS graduate seminars TBD
+<br>and CS graduate seminars TBD
 
 
 **Computing:**
