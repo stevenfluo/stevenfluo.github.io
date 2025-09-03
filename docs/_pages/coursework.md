@@ -11,12 +11,10 @@ redirect_from:
 ---
 
 **Current:**
-<br>**EECS 106A:** Introduction to Robotics
-<br>**EE 120:** Signals and Systems
-<br>**PUBPOL 190-10:** Technology, Risk, and Security Colloquium
-<br>**MUSIC 41B:** Carillon Lessons
-<br>and CS graduate seminars TBD
-
+<br>**CS 294-166:** Foundations of Beneficial AI
+<br>**CS 294-286:** Machine Learning & Human Behavior
+<br>**PUBPOL 290-15:** Case Studies in Prediction, Public Policy, and AI
+<br>**MUSIC 41A:** Carillon Lessons
 
 **Computing:**
 <br>**CS 61A:** Structure and Interpretation of Computer Programs
@@ -41,6 +39,7 @@ redirect_from:
 **Policy/Social:**
 <br>**CS 39:** Technology, Society, and Power
 <br>**NWMEDIA 151AC:** Transforming Tech: Issues & Interventions in STEM & Silicon Valley (A+)
+<br>**NWMEDIA 131:** Digital Infrastructure 101: The Hidden Foundations of the Internet (A+)
 <br>**PUBPOL 101:** Public Policy Analysis (A+)
 <br>**PUBPOL 103:** Wealth and Poverty (with former U.S. Secretary of Labor Robert Reich)
 <br>**PUBPOL 155:** Security Policy (with former U.S. Secretary of Homeland Security Janet Napolitano)
@@ -48,8 +47,8 @@ redirect_from:
 <br>**PUBPOL 190-9:** National Security and Intelligence Seminar (with former U.S. Secretary of Homeland Security Janet Napolitano)
 <br>**PUBPOL 190-10:** Technology, Risk, and Security Colloquium
 <br>**PUBPOL 220:** Law and Public Policy
-<br>**PUBPOL 290:** Technology and Public Policy
-<br>**PUBPOL 290:** Future of Cybersecurity Working Group
+<br>**PUBPOL 290-2:** Technology Policy
+<br>**PUBPOL 290-3:** Future of Cybersecurity Working Group
 <br>**POLISCI 109B:** Politics of Public Policy (A+)
 <br>**ENVECON 170** Energy and Climate Policy in China
 
